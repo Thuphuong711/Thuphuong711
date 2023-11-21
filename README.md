@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Thuphuong711
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Computer Systems Technology (CST) at BCIT Canada
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : You can contact me via the email thuphuongpy2004@gmail.com
 
